@@ -1,0 +1,52 @@
+site_name: KidSafe User Guide
+site_url: https://kidsafe.com.vn/
+site_description: Installation and usage guide for KidSafe.
+site_author: GreenKite Co.
+theme:
+    name: material
+    color_mode: auto
+    user_color_mode_toggle: true
+    locale: en
+    analytics:
+        gtag: G-274394082
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+nav:
+    - Home: index.md
+    - 1 Installation Guide:
+          - 1.1 Install on Computer:
+                - Download and Install KidSafe: section_3_tai_ung_dung_va_cai_dat_tren_may_tinh.md
+                - Activate License and Get Activation Code: section_4_kich_hoat_licence_lay_ma_kich_hoat.md
+          - 1.2 Install on Phone:
+                - Install KidSafe Admin App: section_6_cai_dat_phan_mem_kidsafe_admin_tren_dien_thoai.md
+                - Link Computer with Phone: section_7_lien_ket_may_tinh_voi_dien_thoai.md
+    - 2 User Guide:
+          - 2.1 Quick Control:
+                - Enable/Disable Features: section_10_bat_tat_cac_tinh_nang.md
+                - Lock/Unlock Computer: section_11_khoa_mo_khoa_may_tinh.md
+          - 2.2 Web Access Control:
+                - Network Control Modes: section_13_hai_che_do_kiem_soat_mang_kiem_soat_vua_phai_va_kiem_soat_nghiem_ngat.md
+                - Block/Unblock by Group: section_14_chan_mo_truy_cap_website_theo_nhom.md
+                - Block/Unblock Individual Websites: section_15_chan_mo_chan_truy_cap_website_don_le_co_san.md
+                - Quick Block/Unblock Websites: section_16_chan_mo_nhanh_1_trang_web_bat_ky.md
+          - 2.3 Screenshots:
+                - View Screenshots: section_18_xem_anh_chup_man_hinh.md
+                - Change Screenshot Settings: section_19_thay_doi_cau_hinh_chup_anh.md
+          - 2.4 Web Access History: section_20_lich_su_truy_cap_web.md
+          - 2.5 App Usage History: section_21_lich_su_chay_ung_dung_tren_may.md
+          - 2.6 Game Blocking:
+                - Block/Unblock a Game: section_23_chan_mo_chan_mot_game.md
+                - Add New Game to Blocklist: section_24_them_moi_1_game_vao_danh_sach_chan.md
+          - 2.7 Schedule Computer Lock:
+                - Set Time-Based Lock Schedule: section_26_lap_lich_khoa_theo_khung_gio.md
+                - Computer Lock Screen: section_27_man_hinh_khoa_may_tinh.md
+          - 2.8 Schedule Game/App Blocking:
+                - Set Time-Based Blocking Schedule: section_29_lap_lich_khoa_theo_khung_gio.md
+          - 2.9 Update Web Database: section_30_cap_nhat_csdl_web.md
+          - 2.10 General Settings: section_31_cai_dat_chung.md
+    - About:
+          - Release Notes: about/release-notes.md
+          - Contributing: about/contributing.md
+          - License: about/license.md

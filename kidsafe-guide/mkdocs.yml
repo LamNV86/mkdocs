@@ -1,0 +1,103 @@
+site_name: Hướng dẫn sử dụng KidSafe
+site_url: https://kidsafe.com.vn/
+site_description: Hướng dẫn cài đặt và sử dụng KidSafe.
+site_author: GreenKite Co.
+theme:
+    name: material
+    color_mode: auto
+    user_color_mode_toggle: true
+    locale: en
+    analytics:
+        gtag: G-274394082
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+
+markdown_extensions:
+    - toc:
+          permalink: true
+    - attr_list
+    - def_list
+    - tables
+    - pymdownx.highlight:
+          use_pygments: false
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - callouts
+    - mdx_gh_links:
+          user: mkdocs
+          repo: mkdocs
+    - mkdocs-click
+
+copyright: Copyright &copy; 2024 <a href="https://twitter.com/starletdreaming">GreenKite Co.</a>
+
+hooks:
+    - docs/hooks.py
+
+plugins:
+    - search
+    #     - redirects:
+    #           redirect_maps:
+    #               user-guide/plugins.md: dev-guide/plugins.md
+    #               user-guide/custom-themes.md: dev-guide/themes.md
+    #               user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
+    - autorefs
+    - literate-nav:
+          nav_file: README.md
+          implicit_index: true
+    - mkdocstrings:
+          handlers:
+              python:
+                  options:
+                      docstring_section_style: list
+                      members_order: source
+                      show_root_heading: true
+                      show_source: false
+                      show_signature_annotations: true
+
+watch:
+    - docs
+
+extra_css:
+    - css/extra.css
+
+exclude_docs: |
+    *.py
+nav:
+    - Home: index.md
+    - 1. Hướng dẫn cài đặt:
+          - 1.1. Cài đặt trên máy tính:
+                - Tải ứng dụng và cài đặt trên máy tính: install-guide/install-on-computer.md
+                - Kích hoạt licence & lấy mã kích hoạt: install-guide/activate-license.md
+          - 1.2. Cài đặt trên điện thoại:
+                - Cài đặt phần mềm KidSafe Admin trên điện thoại: install-guide/install-on-phone.md
+                - Liên kết máy tính với điện thoại: install-guide/link-computer-to-phone.md
+    - 2. Hướng dẫn sử dụng:
+          - 2.1. Điều khiển nhanh:
+                - Bật/tắt các tính năng: usage-guide/quick-control/toggle-features.md
+                - Khoá/mở khoá máy tính: usage-guide/quick-control/lock-unlock.md
+          - 2.2. Kiểm soát truy cập web:
+                - Hai chế độ kiểm soát mạng: usage-guide/web-control/modes.md
+                - Chặn/mở truy cập website theo nhóm: usage-guide/web-control/block-unblock-groups.md
+                - Chặn/mở chặn truy cập website đơn lẻ có sẵn: usage-guide/web-control/block-unblock-individual.md
+                - Chặn/mở nhanh 1 trang web bất kỳ: usage-guide/web-control/quick-block-unblock.md
+          - 2.3. Chụp ảnh màn hình:
+                - Xem ảnh chụp màn hình: usage-guide/screenshot/view-screenshots.md
+                - Thay đổi cấu hình chụp ảnh: usage-guide/screenshot/change-settings.md
+          - 2.4. Lịch sử truy cập web: usage-guide/web-history.md
+          - 2.5. Lịch sử chạy ứng dụng trên máy: usage-guide/app-history.md
+          - 2.6. Chặn game:
+                - Chặn/mở chặn một game: usage-guide/game-blocking/block-unblock.md
+                - Thêm mới 1 game vào danh sách chặn: usage-guide/game-blocking/add-to-blocklist.md
+          - 2.7. Lập lịch khóa máy tính:
+                - Lập lịch khoá theo khung giờ: usage-guide/schedule/lock-schedule.md
+                - Màn hình khoá máy tính: usage-guide/schedule/lock-screen.md
+          - 2.8. Lập lịch chặn game/ứng dụng:
+                - Lập lịch khoá theo khung giờ: usage-guide/schedule/block-schedule.md
+          - 2.9. Cập nhật CSDL web: usage-guide/database-update.md
+          - 2.10. Cài đặt chung: usage-guide/general-settings.md
+    - About:
+          - Release Notes: about/release-notes.md
+          - Contributing: about/contributing.md
+          - License: about/license.md
