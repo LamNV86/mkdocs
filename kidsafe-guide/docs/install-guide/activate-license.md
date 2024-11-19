@@ -8,10 +8,10 @@ Nếu license hợp lệ hệ thống sẽ thông báo: “Đăng ký license th
 
 Trong trường hợp bạn đăng ký lại licence cho máy khác thì tích “Đăng ký lại cho máy khác” và nhập thêm mã kích hoạt ở ô “Mã kích hoạt”
 
-![Image 4](images/p4.png)
+![Image 4](../img/p4.png)
 
 Bước 2: Sau khi kích hoạt license thành công trên máy tính, hệ thống sinh ra mã liên kết để kết nối với điện thoại.
 
 Ví dụ: Ở bên dưới mã liên kết sinh ra là 433852
 
-![Image 5](images/p5.png)
+![Image 5](../img/p5.png)

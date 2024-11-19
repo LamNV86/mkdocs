@@ -90,22 +90,65 @@ h5.doc-heading {
     padding-left: 0;
 }
 
-/* Định nghĩa lưới (grid) */
 .md-grid {
     display: flex; /* Kích hoạt flexbox */
     gap: 10px; /* Khoảng cách giữa các mục */
     margin: 20px 0; /* Khoảng cách trên và dưới của toàn bộ lưới */
 }
 
-/* Định nghĩa mỗi cột */
 .md-grid__item {
     flex: 1; /* Chia đều không gian giữa các cột */
     box-sizing: border-box; /* Đảm bảo padding/margin không phá vỡ layout */
 }
 
-/* Căn chỉnh hình ảnh bên trong các cột */
 .md-grid__item img {
     max-width: 100%; /* Đảm bảo hình ảnh không vượt quá kích thước cột */
     height: auto; /* Duy trì tỷ lệ hình ảnh */
     display: block; /* Tránh khoảng trắng bên dưới ảnh */
+}
+
+.md-grid__item .header,
+.row {
+    min-height: 40px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    text-align: start;
+    border-bottom: 2px solid #000;
+}
+
+.md-grid__item .header {
+    font-weight: bold;
+}
+
+.md-grid__item .title,
+.title_narrow,
+.title_bullet {
+    font-weight: bold;
+    min-height: 100px; /* Đặt chiều cao tối thiểu */
+    display: flex;
+    align-items: start; /* Căn giữa nội dung theo chiều dọc */
+    justify-content: center; /* Căn giữa nội dung theo chiều ngang */
+    text-align: center; /* Căn giữa văn bản */
+    position: relative; /* Đặt position để hỗ trợ pseudo-element */
+    padding-left: 1.5em;
+    border-bottom: 2px solid #000;
+}
+
+.md-grid__item .title_narrow {
+    min-height: 60px !important;
+}
+
+/* .md-grid__item .title_bullet {
+    text-align: start !important;
+} */
+
+.md-grid__item .title_bullet::before {
+    content: "➤";
+    font-size: 1.2em;
+    position: absolute;
+    left: 0; /* Đặt mũi tên ở bên trái */
+    top: 50%; /* Căn giữa theo chiều dọc */
+    transform: translateY(-50%); /* Căn chỉnh đúng giữa dòng */
+    color: #000; /* Màu mũi tên */
 }
