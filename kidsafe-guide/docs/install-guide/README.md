@@ -4,7 +4,7 @@ Cài đặt KidSafe trên máy tính của con và KidSafe Admin trên điện t
 
 ---
 
-Hướng dẫn này cung cấp tài liệu chi tiết để người dùng cài đặt ứng dụng KidSafe trên máy tính Windows và KidSafe Admin trên các thiết bị và nền tảng khác nhau. Bạn có thể truy cập trực tiếp từng phần bên dưới hoặc sử dụng các nút điều hướng _next_ và _previous_ ở thanh điều hướng để di chuyển qua các tài liệu.
+Hướng dẫn này cung cấp tài liệu chi tiết để người dùng cài đặt ứng dụng KidSafe trên máy tính Windows và KidSafe Admin trên các thiết bị và nền tảng khác nhau. Bạn có thể truy cập trực tiếp từng phần bên dưới.
 
 -   [1.1. Cài đặt trên máy tính](install-on-computer.md)
 -   [1.2. Kích hoạt giấy phép](activate-license.md)

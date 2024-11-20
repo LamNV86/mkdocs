@@ -1,4 +1,4 @@
-### Bật/tắt các tính năng
+## Bật/tắt các tính năng
 
 Sau khi liên kết thành công điện thoại với máy tính, ở tab “Điều khiển” có thể bật/tắt nhanh các tính năng:
 
@@ -9,7 +9,7 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
 -   Lập lịch chặn vào mạng
 -   Lập lịch chặn game
 
-### Tính năng và Mô tả
+## Tính năng và Mô tả
 
 | **Tính năng**                  | **Hình ảnh**                   | **Mô tả**                                                                                                                                     |
 | ------------------------------ | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
 | **Bật lập lịch chặn game**     | ![Hình ảnh 11](../img/f11.png) | Bật lập lịch việc chặn game.                                                                                                                  |
 | **Tắt lập lịch chặn game**     | ![Hình ảnh 12](../img/f12.png) | Tắt lập lịch chặn game.                                                                                                                       |
 
-### Khoá/mở khoá máy tính
+## Khoá/mở khoá máy tính
 
 -   Có thể khoá hoặc mở khoá máy tính ở thời điểm bất kỳ
 -   Vào tab Điều khiển > Vùng tiện ích > Dòng Khoá/mở máy tính

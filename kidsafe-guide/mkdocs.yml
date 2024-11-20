@@ -1,4 +1,4 @@
-site_name: Hướng dẫn sử dụng KidSafe
+site_name: Hướng dẫn KidSafe
 site_url: https://kidsafe.com.vn/
 site_description: Hướng dẫn cài đặt và sử dụng KidSafe.
 site_author: GreenKite Co.
@@ -82,22 +82,6 @@ nav:
       #           - Chặn/mở truy cập website theo nhóm: usage-guide/web-control/block-unblock-groups.md
       #           - Chặn/mở chặn truy cập website đơn lẻ có sẵn: usage-guide/web-control/block-unblock-individual.md
       #           - Chặn/mở nhanh 1 trang web bất kỳ: usage-guide/web-control/quick-block-unblock.md
-      #     - 2.3. Chụp ảnh màn hình:
-      #           - Xem ảnh chụp màn hình: usage-guide/screenshot/view-screenshots.md
-      #           - Thay đổi cấu hình chụp ảnh: usage-guide/screenshot/change-settings.md
-      #     - 2.4. Lịch sử truy cập web: usage-guide/web-history.md
-      #     - 2.5. Lịch sử chạy ứng dụng trên máy: usage-guide/app-history.md
-      #     - 2.6. Chặn game:
-      #           - Chặn/mở chặn một game: usage-guide/game-blocking/block-unblock.md
-      #           - Thêm mới 1 game vào danh sách chặn: usage-guide/game-blocking/add-to-blocklist.md
-      #     - 2.7. Lập lịch khóa máy tính:
-      #           - Lập lịch khoá theo khung giờ: usage-guide/schedule/lock-schedule.md
-      #           - Màn hình khoá máy tính: usage-guide/schedule/lock-screen.md
-      #     - 2.8. Lập lịch chặn game/ứng dụng:
-      #           - Lập lịch khoá theo khung giờ: usage-guide/schedule/block-schedule.md
-      #     - 2.9. Cập nhật CSDL web: usage-guide/database-update.md
-      #     - 2.10. Cài đặt chung: usage-guide/general-settings.md
-    - About:
-          - Release Notes: about/release-notes.md
-          - Contributing: about/contributing.md
-          - License: about/license.md
+    - Help:
+          - Hỏi đáp: help/qa.md
+          - Tip: help/tip/

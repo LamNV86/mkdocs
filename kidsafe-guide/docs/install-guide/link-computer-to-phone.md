@@ -1,6 +1,6 @@
 Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có thể liên kết điện thoại với máy tính
 
-#### Bước 1: Liên kết ngay
+### Bước 1: Liên kết ngay
 
   <div class="md-grid">
     <div class="md-grid__item">
@@ -13,7 +13,7 @@ Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có th�
     </div>
   </div>
   
-#### Bước 2: Ở màn hình “Thêm thiết bị”, nhập các thông tin:
+### Bước 2: Ở màn hình “Thêm thiết bị”, nhập các thông tin:
 
 Tên gợi nhớ: Đặt tuỳ ý tối thiểu 4 ký tự (ví dụ: May tinh 1)
 

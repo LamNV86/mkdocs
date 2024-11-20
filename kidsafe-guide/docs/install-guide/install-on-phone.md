@@ -1,6 +1,6 @@
 Trên điện thoại của phụ huynh, thực hiện theo các bước sau:
 
-#### Bước 1: Tải KidSafe Admin trên iOS hoặc Android:
+### Bước 1: Tải KidSafe Admin trên iOS hoặc Android
 
   <div class="md-grid">
     <div class="md-grid__item">
@@ -29,7 +29,7 @@ Trên điện thoại của phụ huynh, thực hiện theo các bước sau:
     </div>
   </div>
 
-#### Bước 2: Đăng ký tài khoản KidSafe Admin
+### Bước 2: Đăng ký tài khoản KidSafe Admin
 
 Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
 

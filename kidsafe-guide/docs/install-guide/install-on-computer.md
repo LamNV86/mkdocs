@@ -1,14 +1,14 @@
 ### Tải ứng dụng và cài đặt trên máy tính
 
-#### Bước 1: Vào trang https://kidsafe.com.vn, nhấn nút “Download bộ cài”
+### Bước 1: Vào trang https://kidsafe.com.vn, nhấn nút “Download bộ cài”
 
 ![Image 1](../img/p1.png)
 
-#### Bước 2: Chờ file KidSafeSetup.exe được tải xong, mở file này để bắt đầu cài đặt
+### Bước 2: Chờ file KidSafeSetup.exe được tải xong, mở file này để bắt đầu cài đặt
 
 ![Image 2](../img/p2.png)
 
-#### Bước 3: Quá trình cài
+### Bước 3: Quá trình cài
 
 -   Chọn **"I accept the agreement"** và nhấn **"Next"**
 
@@ -34,10 +34,10 @@
 
     ![is6](../img/is6.png)
 
-#### Bước 4: Sau khi cài xong, KidSafe hiển thị màn hình “Cài đặt mật khẩu quản trị”
+### Bước 4: Sau khi cài xong, KidSafe hiển thị màn hình “Cài đặt mật khẩu quản trị”
 
 Mật khẩu quản trị là mật khẩu tuỳ ý do bạn đặt.
 
 Lưu ý: cần ghi nhớ mật khẩu quản trị này dùng để mở ứng dụng KidSafe ở các lần sau.
 
-![Image 3](images/p3.png)
+![Mật khẩu quản trị](../img/p6.png)
