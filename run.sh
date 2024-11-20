@@ -14,3 +14,8 @@ pip3 install python-docx
 
 #
 python3 doc2mdbyindex2.py
+
+#
+mkdocs build
+cd site
+python -m http.server
