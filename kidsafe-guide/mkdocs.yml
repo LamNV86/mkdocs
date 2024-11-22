@@ -70,21 +70,9 @@ exclude_docs: |
 nav:
     - Home: index.md
     - 1. Hướng dẫn cài đặt: install-guide/
-      #     - 1.1. Cài đặt trên máy tính:
-      #           - Tải ứng dụng và cài đặt trên máy tính: install-guide/install-on-computer.md
-      #           - Kích hoạt licence & lấy mã kích hoạt: install-guide/activate-license.md
-      #     - 1.2. Cài đặt trên điện thoại:
-      #           - Cài đặt phần mềm KidSafe Admin trên điện thoại: install-guide/install-on-phone.md
-      #           - Liên kết máy tính với điện thoại: install-guide/link-computer-to-phone.md
     - 2. Hướng dẫn sử dụng: usage-guide/
-      #     - 2.1. Điều khiển nhanh:
-      #           - Bật/tắt các tính năng: usage-guide/quick-control/toggle-features.md
-      #           - Khoá/mở khoá máy tính: usage-guide/quick-control/lock-unlock.md
-      #     - 2.2. Kiểm soát truy cập web:
-      #           - Hai chế độ kiểm soát mạng: usage-guide/web-control/modes.md
-      #           - Chặn/mở truy cập website theo nhóm: usage-guide/web-control/block-unblock-groups.md
-      #           - Chặn/mở chặn truy cập website đơn lẻ có sẵn: usage-guide/web-control/block-unblock-individual.md
-      #           - Chặn/mở nhanh 1 trang web bất kỳ: usage-guide/web-control/quick-block-unblock.md
     - Help:
           - Hỏi đáp: help/qa.md
-          - Tip: help/tip/
+          - Mở KidSafe: help/open-pc.md
+          - Gỡ cài đặt KidSafe: help/uninstall-pc.md
+    - Other: tip/

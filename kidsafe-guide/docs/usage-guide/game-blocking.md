@@ -17,7 +17,7 @@ Tính năng này cho phép:
       <img src="../../img/ip21.png" alt="Màn hình liên kết ngay" style="width: 100%;">
     </div>
     <div class="md-grid__item">
-        <div class="title_bullet">Gạt sang đỏ để chặn, gạt sang xanh để mở</div>
+        <div class="title_bullet" style="height: auto;flex: none;">Gạt sang đỏ để chặn, gạt sang xanh để mở<br><br></div>
         <div style="display: flex; flex-direction: column;">
             <div>Công tắc màu đỏ là chặn:</div>
             <div>
