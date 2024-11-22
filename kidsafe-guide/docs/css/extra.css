@@ -130,7 +130,7 @@ h5.doc-heading {
     justify-content: start;
     text-align: center;
     position: relative;
-    padding-left: 1.5em;
+    padding-left: 15px;
     border-bottom: 2px solid #000;
     flex-grow: 1;
 }
@@ -157,4 +157,98 @@ h5.doc-heading {
     border-bottom: 2px solid #000;
     height: auto;
     flex-grow: 1;
+}
+
+.guide-container {
+    max-width: 1200px;
+    /* padding: 0 16px; */
+    margin: 0 auto;
+}
+
+.guide-card {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 10px;
+    flex: 1;
+}
+
+.guide-card .guide-title {
+    font-weight: bold;
+}
+
+.guide-card .guide-title,
+.guide-title-bullet,
+.guide-sub-title {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    border-bottom: 2px solid #000;
+    margin-bottom: 12px;
+}
+
+.guide-card .guide-title--bullet {
+    align-items: center !important;
+    padding-left: 24px;
+    position: relative;
+}
+
+.guide-card .guide-title--bullet::before {
+    content: "➤";
+    font-size: 1.2em;
+    position: absolute;
+    left: 0; /* Đặt mũi tên ở bên trái */
+    top: 50%; /* Căn giữa theo chiều dọc */
+    transform: translateY(-50%); /* Căn chỉnh đúng giữa dòng */
+    color: #000; /* Màu mũi tên */
+}
+
+.guide-card .guide-title--10 {
+    flex: 0 0 10%;
+}
+
+.guide-card .guide-title--15 {
+    flex: 0 0 15%;
+}
+
+.guide-card .guide-title--20 {
+    flex: 0 0 20%;
+}
+
+.guide-card .guide-sub-title--10 {
+    flex: 0 0 10%;
+}
+
+.guide-card .guide-sub-title--15 {
+    flex: 0 0 15%;
+}
+
+.guide-card .guide-sub-title--20 {
+    flex: 0 0 20%;
+}
+
+.guide-card .guide-content {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
+.guide-card .guide-content-60 {
+    flex: 0 0 60%;
+}
+.guide-card .guide-content-65 {
+    flex: 0 0 65%;
+}
+.guide-card .guide-content-70 {
+    flex: 0 0 70%;
+}
+.guide-card .guide-content-75 {
+    flex: 0 0 75%;
+}
+.guide-card .guide-content-80 {
+    flex: 0 0 80%;
+}
+.guide-card .guide-content-85 {
+    flex: 0 0 85%;
+}
+.guide-content img {
+    width: 100%;
 }

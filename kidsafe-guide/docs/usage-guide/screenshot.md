@@ -9,24 +9,30 @@ Tính năng này cho phép:
 ## Xem ảnh chụp màn hình
 
 -   Vào tab “Ảnh màn hình” => các ảnh chụp sẽ hiển thị theo ngày, theo khung giờ
-
-<div class="md-grid">
-  <div class="md-grid__item">
-    <img src="../../img/ip17.png" alt="Màn hình đăng nhập" style="width: 100%;">
+<div class="guide-container grid grid--2-cols">
+  <div class="guide-card">
+    <div class="guide-title guide-title--5">Xem ảnh chụp</div>
+    <div class="guide-content guide-content--95">
+      <img src="../../img/ip17.png" alt="Xem ảnh chụp">
+    </div>
   </div>
-  <div class="md-grid__item"></div>
+  <div class="guide-card">
+  </div>
 </div>
 
 ## Thay đổi cấu hình chụp ảnh
 
-  <div class="md-grid">
-    <div class="md-grid__item">
-      <div class="title_bullet">Tab “Điều khiển” > vùng “Điều khiển nhanh” > nhấn vào dòng “Chụp ảnh màn hình”</div>
-      <img src="../../img/ip18.png" alt="Màn hình liên kết ngay" style="width: 100%;">
+  <div class="guide-container grid grid--2-cols">
+    <div class="guide-card">
+      <div class="guide-title guide-title--15 guide-title--bullet">Tab “Điều khiển” > vùng “Điều khiển nhanh” > nhấn vào dòng “Chụp ảnh màn hình”</div>
+      <div class="guide-content guide-content--85">  
+        <img src="../../img/ip18.png" alt="Chức năng chụp ảnh">
+      </div>
     </div>
-    <div class="md-grid__item">
-      <div class="title_bullet">Nhấn vào combobox để chọn tần xuất chụp ảnh</div>
-      <img src="../../img/ip19.png" alt="Màn hình liên kết ngay" style="width: 100%;">
+    <div class="guide-card">
+      <div class="guide-title guide-title--15 guide-title--bullet">Nhấn vào combobox để chọn tần xuất chụp ảnh</div>
+      <div class="guide-content guide-content--85">  
+        <img src="../../img/ip19.png" alt="Chọn tần xuất chụp ảnh">
+      </div>
     </div>
- 
   </div>

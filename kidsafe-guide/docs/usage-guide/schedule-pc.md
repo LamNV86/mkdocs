@@ -7,16 +7,19 @@ Tính năng này cho phép:
 
 ## Lập lịch khoá theo khung giờ
 
-  <div class="md-grid">
-    <div class="md-grid__item">
-      <div class="title_bullet">Tab “Điều khiển” > vùng “Điều khiển nhanh” > nhấn vào dòng “Lập lịch khoá máy tính”</div>
-      <img src="../../img/ip25.png" alt="Chức năng lập lịch khoá máy" style="width: 100%;">
+  <div class="guide-container grid grid--2-cols">
+    <div class="guide-card">
+      <div class="guide-title guide-title--10 guide-title--bullet">Tab “Điều khiển” > vùng “Điều khiển nhanh” > nhấn vào dòng “Lập lịch khoá máy tính”</div>
+      <div class="guide-content guide-content--90">  
+        <img src="../../img/ip25.png" alt="Chức năng lập lịch khoá máy"></img>
+      </div>
     </div>
-    <div class="md-grid__item">
-      <div class="title_bullet">Ở màn hình lập lịch khoá máy tính tích chọn các khung giờ cần chặn</div>
-      <img src="../../img/ip26.png" alt="Màn hình lập lịch khoá máy" style="width: 100%;">
+    <div class="guide-card">
+      <div class="guide-title guide-title--10 guide-title--bullet">Ở màn hình lập lịch khoá máy tính tích chọn các khung giờ cần chặn</div>
+      <div class="guide-content guide-content--90">  
+        <img src="../../img/ip26.png" alt="Màn hình lập lịch khoá máy"></img>
+      </div>
     </div>
- 
   </div>
 
 ## Màn hình khoá máy tính

@@ -84,7 +84,7 @@ Tài liệu hướng dẫn cài đặt và sử dụng KidSafe.
         - Cấu hình các khoảng thời gian sử dụng máy chi tiết đến từng phút. Ví dụ cho dùng máy tính từ 7:45 đến 11:30.<br>
         - Có thể mở máy tính khẩn cấp từ xa khi con cần dùng máy trong khung giờ bị khóa.
       </span>
-      <a href="/usage-guide/schedule-lock/">Chi tiết ></a>
+      <a href="/usage-guide/schedule-pc/">Chi tiết ></a>
     </div>
   </div>
   <div class="meal">
@@ -97,7 +97,7 @@ Tài liệu hướng dẫn cài đặt và sử dụng KidSafe.
       -   Thời gian chơi game được cấu hình linh hoạt theo ngày trong tuần.<br>
       -   Cấu hình các khoảng thời gian chơi game chi tiết đến từng phút.<br>
       </span>
-      <a href="/usage-guide/schedule-lock/">Chi tiết ></a>
+      <a href="/usage-guide/schedule-game/">Chi tiết ></a>
     </div>
   </div>  
 </div>
