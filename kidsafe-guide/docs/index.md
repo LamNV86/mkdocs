@@ -10,58 +10,94 @@ Tài liệu hướng dẫn cài đặt và sử dụng KidSafe.
   <a href="usage-guide/" class="link-primary">Hướng Dẫn Sử Dụng</a> để biết thêm chi tiết.
 </p>
 
-<div class="text-center">
-<a href="install-guide/" class="btn btn-primary" role="button">Hướng Dẫn Cài Đặt</a>
-<a href="usage-guide/" class="btn btn-primary" role="button">Hướng Dẫn Sử Dụng</a>
+<div class="center-text">
+  <a href="install-guide/" class="btn btn--full" role="button">Hướng Dẫn Cài Đặt</a>
+  <a href="usage-guide/" class="btn btn--full" role="button">Hướng Dẫn Sử Dụng</a>
 </div>
 
-<div class="pt-2 pb-4 px-4 my-4 bg-body-tertiary rounded-3">
-  <h2 class="display-4">Tính Năng</h2>
+<div class="container center-text margin-bottom-md">  
+  <h2 class="heading-secondary">Tính năng</h2>
+</div>
 
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="card mb-4">
-        <div class="card-body">
-          <h3 class="card-title">Quản lý truy cập web</h3>
-          <p class="card-text">
-              Kiểm soát hoạt động truy cập internet với các chế độ: Kiểm soát vừa phải hoặc nghiêm ngặt. Hỗ trợ chặn/mở truy cập theo nhóm hoặc nhanh chóng cho từng website.
-              Xem thêm tại <a href="user-guide/web-control/">Kiểm Soát Web</a>.
-          </p>
-        </div>
-      </div>
+<div class="container grid grid--2-cols margin-bottom-md">
+  <div class="meal">
+    <div class="meal-header">
+      <p class="meal-title">Quản lý truy cập web</p>
     </div>
-    <div class="col-sm-6">
-      <div class="card mb-4">
-        <div class="card-body">
-          <h3 class="card-title">Chặn game và ứng dụng</h3>
-          <p class="card-text">
-              Chặn hoặc mở chặn các game và ứng dụng không mong muốn. Cung cấp khả năng lập lịch chặn linh hoạt. Tìm hiểu thêm tại <a href="user-guide/game-control/">Chặn Game</a>.
-          </p>
-        </div>
-      </div>
+    <div class="meal-content">
+      <span>
+      -   Chặn truy cập các trang web khiêu dâm, game online, mạng xã hội,…<br>
+      -   Chặn/mở các trang web theo nhóm; các nhóm có sẵn: khiêu dâm, game online, mạng xã hội,...<br>
+      -   Chặn/mở trang web bất kỳ do người dùng tự thêm vào.<br>
+      -   Hỗ trợ hai chế độ kiểm soát mạng: vừa phải và nghiêm ngặt.<br>
+      -   Cơ sở dữ liệu web được cập nhật tự động từ server về.<br>
+      </span>
+      <a href="/usage-guide/web-control/">Chi tiết ></a>
     </div>
   </div>
-
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="card">
-        <div class="card-body">
-          <h3 class="card-title">Chụp ảnh màn hình</h3>
-          <p class="card-text">
-              Tự động chụp ảnh màn hình để giám sát và quản lý. Dễ dàng cấu hình và xem lại hình ảnh. Xem thêm tại <a href="user-guide/screenshot/">Chụp Ảnh Màn Hình</a>.
-          </p>
-        </div>
-      </div>
+  <div class="meal">
+    <div class="meal-header">
+      <p class="meal-title">Chặn game và ứng dụng</p>
     </div>
-    <div class="col-sm-6">
-      <div class="card">
-        <div class="card-body">
-          <h3 class="card-title">Lịch sử truy cập và sử dụng</h3>
-          <p class="card-text">
-              Theo dõi lịch sử truy cập web và ứng dụng đã chạy. Cung cấp thông tin chi tiết để đánh giá hoạt động trên máy tính. Chi tiết tại <a href="user-guide/history/">Lịch Sử</a>.
-          </p>
-        </div>
-      </div>
+    <div class="meal-content">
+      <span>
+      -   Chặn các game hoặc ứng dụng cài trên máy tính.<br>
+      -   Chặn/mở game hoặc ứng dụng bất kỳ do người dùng tự thêm vào.<br>
+      -   Có thể tạm thời tắt tính năng chặn game hoặc ứng dụng.<br>
+      -   Danh sách game được cập nhật tự động từ server.<br>
+      </span>
+      <a href="/usage-guide/game-blocking/">Chi tiết ></a>
     </div>
   </div>
+  <div class="meal">
+    <div class="meal-header">
+      <p class="meal-title">Chụp ảnh màn hình</p>
+    </div>
+    <div class="meal-content">
+      <span>
+      -   Tự động chụp ảnh màn hình máy tính định kỳ và xem lại qua app mobile.<br>
+      -   Tùy chỉnh linh hoạt tần xuất chụp ảnh: 15s, 30s, 1 phút, 2 phút, 5 phút, 30 phút.<br>
+      -   Tuỳ chỉnh bật/tắt chụp ảnh màn hình.<br>
+      -   Chỉ khi nào xem ảnh thì ảnh mới được load lên điện thoại do đó không tốn dung lượng điện thoại để lưu ảnh.<br>
+      -   Tuỳ chỉnh thời gian lưu ảnh trên máy tính (sau thời gian này ảnh được xoá tự động).<br>
+      </span>
+      <a href="/usage-guide/screenshot/">Chi tiết ></a>
+    </div>
+  </div>
+  <div class="meal">
+    <div class="meal-header">
+      <p class="meal-title">Lịch sử truy cập và sử dụng</p>
+    </div>
+    <div class="meal-content">
+      <span>Theo dõi lịch sử truy cập web và ứng dụng đã chạy. Cung cấp thông tin chi tiết để đánh giá hoạt động trên máy tính.</span>
+      <a href="/usage-guide/usage-history/">Chi tiết ></a>
+    </div>
+  </div>
+  <div class="meal">
+    <div class="meal-header">
+      <p class="meal-title">Lập lịch khóa máy tính</p>
+    </div>
+    <div class="meal-content">
+      <span>
+        - Cài đặt thời gian con được sử dụng máy tính. Tự động khóa máy tính ngoài thời gian được phép.<br>
+        - Thời gian sử dụng máy được cấu hình linh hoạt theo ngày trong tuần.<br>
+        - Cấu hình các khoảng thời gian sử dụng máy chi tiết đến từng phút. Ví dụ cho dùng máy tính từ 7:45 đến 11:30.<br>
+        - Có thể mở máy tính khẩn cấp từ xa khi con cần dùng máy trong khung giờ bị khóa.
+      </span>
+      <a href="/usage-guide/schedule-lock/">Chi tiết ></a>
+    </div>
+  </div>
+  <div class="meal">
+    <div class="meal-header">
+      <p class="meal-title">Lập lịch chơi game</p>
+    </div>
+    <div class="meal-content">
+      <span>
+      -   Cài đặt thời gian con được chơi game.<br>
+      -   Thời gian chơi game được cấu hình linh hoạt theo ngày trong tuần.<br>
+      -   Cấu hình các khoảng thời gian chơi game chi tiết đến từng phút.<br>
+      </span>
+      <a href="/usage-guide/schedule-lock/">Chi tiết ></a>
+    </div>
+  </div>  
 </div>

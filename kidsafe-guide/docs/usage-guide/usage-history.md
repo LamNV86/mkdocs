@@ -2,9 +2,9 @@
 
 Tính năng này cho phép:
 
--   Xem toàn bộ lịch sử truy cập các trang web
--   Lịch sử truy cập được phân chia theo ngày
--   Các trang web trong lịch sử có phân nhóm, có thông tin số lượt truy cập (ghi nhận mỗi 5p 1 lần)
+-   Xem toàn bộ lịch sử truy cập các trang web.
+-   Lịch sử truy cập được phân chia theo ngày.
+-   Các trang web trong lịch sử có phân nhóm, có thông tin số lượt truy cập (ghi nhận mỗi 5p 1 lần).
 
   <div class="md-grid">
     <div class="md-grid__item">
@@ -19,9 +19,9 @@ Tính năng này cho phép:
 
 Tính năng này cho phép:
 
--   Xem toàn bộ lịch sử chạy các ứng dụng trên máy
--   Lịch sử truy cập được phân chia theo ngày
--   Có thể chặn/mở các ứng dụng trong danh sách lịch sử này
+-   Xem toàn bộ lịch sử chạy các ứng dụng trên máy.
+-   Lịch sử truy cập được phân chia theo ngày.
+-   Có thể chặn/mở các ứng dụng trong danh sách lịch sử này.
 
   <div class="md-grid">
     <div class="md-grid__item">

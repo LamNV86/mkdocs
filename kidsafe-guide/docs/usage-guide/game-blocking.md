@@ -1,10 +1,9 @@
 Tính năng này cho phép:
 
--   Chặn các game hoặc ứng dụng cài trên máy tính
--   Danh sách game được cập nhật tự động từ Cloud
--   Bạn có thể tự thêm các game hoặc ứng dụng cần chặn
--   Bạn có thể tùy chỉnh chặn/mở chặn một game hoặc cụ thể
--   Bạn có thể tạm thời tắt tính năng chặn game hoặc ứng dụng
+-   Chặn các game hoặc ứng dụng cài trên máy tính.
+-   Chặn/mở game hoặc ứng dụng bất kỳ do người dùng tự thêm vào.
+-   Có thể tạm thời tắt tính năng chặn game hoặc ứng dụng.
+-   Danh sách game được cập nhật tự động từ server.
 
 ## Chặn/mở chặn một game
 

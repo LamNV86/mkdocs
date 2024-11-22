@@ -1,8 +1,8 @@
 Tính năng này cho phép:
 
--   Cài đặt thời gian con được chơi game
--   Thời gian chơi game được cấu hình linh hoạt theo ngày trong tuần
--   Cấu hình các khoảng thời gian chơi game chi tiết đến từng phút. Ví dụ cho dùng máy tính từ 7:45 đến 11:30
+-   Cài đặt thời gian con được chơi game.
+-   Thời gian chơi game được cấu hình linh hoạt theo ngày trong tuần.
+-   Cấu hình các khoảng thời gian chơi game chi tiết đến từng phút.
 
 ## Lập lịch khoá theo khung giờ
 
