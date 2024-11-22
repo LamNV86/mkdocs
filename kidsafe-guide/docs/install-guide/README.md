@@ -9,4 +9,4 @@ Hướng dẫn này cung cấp tài liệu chi tiết để người dùng cài 
 -   [1.1. Cài đặt trên máy tính](install-on-computer.md)
 -   [1.2. Kích hoạt giấy phép](activate-license.md)
 -   [1.3. Cài đặt trên điện thoại](install-on-phone.md)
--   [1.4. Kết nối giữa máy tính và điện thoại](link-computer-to-phone.md)
+-   [1.4. Kết nối điện thoại với máy tính](link-computer-to-phone.md)

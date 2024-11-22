@@ -31,10 +31,13 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
 -   Có thể khoá hoặc mở khoá máy tính ở thời điểm bất kỳ
 -   Vào tab Điều khiển > Vùng tiện ích > Dòng Khoá/mở máy tính
 
-  <div class="md-grid">
-    <div class="md-grid__item">    
-      <img src="../../img/ip14.png" alt="Màn hình liên kết ngay" style="width: 100%;">
+  <div class="guide-container grid grid--2-cols">
+    <div class="guide-card">
+      <div class="guide-title guide-title--5">Màn hình điều khiển</div>
+      <div class="guide-content guide-content--95">
+        <img src="../../img/ip14.png" alt="Khoá/mở máy tính">
+      </div>
     </div>
-    <div class="md-grid__item">
+    <div class="guide-card">
     </div>
   </div>

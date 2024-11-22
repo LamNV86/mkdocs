@@ -2,34 +2,40 @@ Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có th�
 
 ### Bước 1: Liên kết ngay
 
-  <div class="md-grid">
-    <div class="md-grid__item">
-      <div class="title">Nếu chưa liên kết với thiết bị nào: ở màn hình điều khiển nhấn vào nút “Liên kết ngay”.</div>
-      <img src="../../img/ip4.png" alt="Màn hình liên kết ngay" style="width: 100%;">
+  <div class="guide-container grid grid--2-cols">
+    <div class="guide-card">
+      <div class="guide-title guide-title--5">Nếu chưa liên kết với thiết bị nào</div>
+      <div class="guide-title guide-sub-title--5">Ở màn hình điều khiển nhấn vào nút “Liên kết ngay”.</div>
+      <div class="guide-content guide-content--90">  
+        <img src="../../img/ip4.png" alt="">
+      </div>
     </div>
-    <div class="md-grid__item">
-      <div class="title">Nếu liên kết thêm thiết bị: Ở tab tài khoản, vùng thiết bị liên kết, nhấn vào nút “Thêm thiết bị”.</div>
-      <img src="../../img/ip32.png" alt="Màn hình liên kết ngay" style="width: 100%;">
+    <div class="guide-card">
+      <div class="guide-title guide-title--5">Nếu liên kết thêm thiết bị</div>
+      <div class="guide-title guide-sub-title--5">Ở tab tài khoản, vùng thiết bị liên kết, nhấn vào nút “Thêm thiết bị”.</div>
+      <div class="guide-content guide-content--90">  
+        <img src="../../img/ip32.png" alt="">
+      </div>
     </div>
   </div>
-  
+
 ### Bước 2: Ở màn hình “Thêm thiết bị”, nhập các thông tin:
 
-Tên gợi nhớ: Đặt tuỳ ý tối thiểu 4 ký tự (ví dụ: May tinh 1)
+-   Tên gợi nhớ: Đặt tuỳ ý tối thiểu 4 ký tự (ví dụ: May tinh 1)
+-   Mã liên kết: Lấy mã liên kết ở bước [1.2. Kích hoạt giấy phép](../activate-license/)
 
-Mã liên kết: Lấy mã liên kết ở bước 1 (sau khi cài đặt KidSafe trên máy tính hệ thống sẽ sinh mã liên kết với máy tính đó)
-
-  <div class="md-grid">
-    <div class="md-grid__item">
-      <div class="title_bullet">Nhập tên gợi nhớ, mã liên kết => nhấn “Thêm thiết bị”</div>
-      <img src="../../img/ip5.png" alt="Màn hình liên kết ngay" style="width: 100%;">
+<div class="guide-container grid grid--2-cols">
+  <div class="guide-card">
+    <div class="guide-title guide-title--5">Nhấn “Thêm thiết bị”</div>
+    <div class="guide-content guide-content--95">
+      <img src="../../img/ip5.png" alt="">
     </div>
-    <div class="md-grid__item">
-      <div class="title_bullet">Màn hình sau khi liên kết thành công</div>
-      <img src="../../img/ip6.png" alt="Màn hình liên kết ngay" style="width: 100%;">
-    </div>
-    <div class="md-grid__item">
-      <div class="title_bullet">Kiểm tra thiết bị đã liên kết</div>
-      <img src="../../img/ip31.png" alt="Màn hình liên kết ngay" style="width: 100%;">
-    </div>    
   </div>
+
+  <div class="guide-card">
+    <div class="guide-title guide-title--5">Kiểm tra thiết bị đã liên kết</div>
+    <div class="guide-content guide-content--95">
+      <img src="../../img/ip31.png" alt="Xem ảnh chụp">
+    </div>
+  </div>  
+</div>
