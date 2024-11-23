@@ -103,62 +103,6 @@ h5.doc-heading {
     flex-direction: column;
 }
 
-.md-grid__item img {
-    max-width: 100%;
-    height: auto;
-    display: block; /* Tránh khoảng trắng bên dưới ảnh */
-}
-
-.md-grid__item .header {
-    font-weight: bold;
-    height: auto;
-    display: flex;
-    align-items: start;
-    justify-content: start;
-    text-align: start;
-    border-bottom: 2px solid #000;
-    flex-grow: 1;
-}
-
-.md-grid__item .title,
-.title_narrow,
-.title_bullet {
-    font-weight: bold;
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    text-align: center;
-    position: relative;
-    padding-left: 15px;
-    border-bottom: 2px solid #000;
-    flex-grow: 1;
-}
-
-/* .md-grid__item .title_narrow {
-    min-height: 60px !important;
-} */
-
-.md-grid__item .title_bullet::before {
-    content: "➤";
-    font-size: 1.2em;
-    position: absolute;
-    left: 0; /* Đặt mũi tên ở bên trái */
-    top: 50%; /* Căn giữa theo chiều dọc */
-    transform: translateY(-50%); /* Căn chỉnh đúng giữa dòng */
-    color: #000; /* Màu mũi tên */
-}
-
-.md-grid__item .row {
-    display: flex;
-    align-items: start;
-    justify-content: start;
-    text-align: start;
-    border-bottom: 2px solid #000;
-    height: auto;
-    flex-grow: 1;
-}
-
 .guide-container {
     gap: 10px;
     margin: 20px 0;

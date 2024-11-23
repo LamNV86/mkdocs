@@ -10,7 +10,7 @@ Tính năng này cho phép:
 
 Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
 
- <div class="md-grid">
+ <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--5">Kiểm soát vừa phải</div>
       <div class="guide-sub-title guide-sub-title--15">
@@ -35,7 +35,7 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
 
 -   Ở tab Lọc web > Lọc nhóm: Mỗi nhóm website hiển thị thành 1 dòng
 
-  <div class="md-grid">
+  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--15">Ở chế độ kiểm soát vừa phải: tích đỏ là chặn, không tích là mở</div>
       <div class="guide-content guide-content--85">  
@@ -52,7 +52,7 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
 
 -   Ở tab Lọc web > Chi tiết: xem cụ thể từng trang web
 
- <div class="md-grid">
+ <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--10">Khi nhóm Game online bị chặn (tích đỏ) thì tất cả game online trong nhóm bị chặn</div>
       <div class="guide-sub-title guide-sub-title--15">
@@ -78,7 +78,7 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
 -   Vào tab “Lọc web” > tab “Chi tiết” > nhấn vào ô Tìm kiếm > nhập tên website để tìm
 -   Gạt công tắc sang màu xanh để mở chặn, gạt sang màu đỏ đề chặn
 
-  <div class="md-grid">
+  <div class="guide-container guide-grid grid--3-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--15 guide-title--bullet">Tab “Lọc web” > tab “Chi tiết” > nhấn ô Tìm kiếm > nhập tên website để tìm</div>
       <div class="guide-content guide-content--85">  
@@ -101,7 +101,7 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
 
 ## Chặn/mở truy cập website bất kỳ
 
- <div class="md-grid">
+ <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--10">Tab “Lọc web” > tab “Lọc nhanh” > tab "Chặn"</div>
       <div class="guide-sub-title guide-sub-title--15">

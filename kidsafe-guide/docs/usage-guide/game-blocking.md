@@ -7,7 +7,7 @@ Tính năng này cho phép:
 
 ## Chặn/mở chặn một game
 
-  <div class="md-grid">
+  <div class="guide-container guide-grid grid--3-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--15 guide-title--bullet">Tab Điều khiển > nhấn vào dòng Chặn game/ứng dụng</div>
       <div class="guide-content guide-content--85">      
@@ -39,7 +39,7 @@ Tính năng này cho phép:
 
 ## Thêm mới 1 game vào danh sách chặn
 
-  <div class="md-grid">
+  <div class="guide-container guide-grid grid--3-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--15 guide-title--bullet">Ở màn hình chặn game/ứng dụng, nhấn dấu +</div>
       <div class="guide-content guide-content--85">  

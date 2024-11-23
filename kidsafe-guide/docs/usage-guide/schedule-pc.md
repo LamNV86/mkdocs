@@ -7,7 +7,7 @@ Tính năng này cho phép:
 
 ## Lập lịch khoá theo khung giờ
 
-  <div class="guide-container grid grid--2-cols">
+  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--10 guide-title--bullet">Tab “Điều khiển” > vùng “Điều khiển nhanh” > nhấn vào dòng “Lập lịch khoá máy tính”</div>
       <div class="guide-content guide-content--90">  

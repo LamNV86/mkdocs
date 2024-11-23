@@ -2,7 +2,7 @@ Trên điện thoại của phụ huynh, thực hiện theo các bước sau:
 
 ### Bước 1: Tải KidSafe Admin trên iOS hoặc Android
 
-   <div class="guide-container grid grid--2-cols">
+   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--5">KidSafe Admin trên Android</div>
       <div class="guide-sub-title guide-sub-title--15">
@@ -51,7 +51,7 @@ Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
         - **Nhập lại mật khẩu**: Nhập lại đúng mật khẩu bạn đã nhập.
     2. Nhấn **“Đăng ký”** để tạo tài khoản.
 
-  <div class="guide-container grid grid--2-cols">
+  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--5">Nhấn đăng ký</div>
       <div class="guide-content guide-content--95">  
@@ -70,7 +70,7 @@ Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
     1. Nhập **Tên đăng nhập** và **Mật khẩu**.
     2. Nhấn **“Đăng nhập”** để truy cập.
 
-<div class="guide-container grid grid--2-cols">
+<div class="guide-container guide-grid grid--2-cols">
   <div class="guide-card">
     <div class="guide-title guide-title--5">Đăng nhập</div>
     <div class="guide-content guide-content--95">

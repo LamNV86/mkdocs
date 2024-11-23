@@ -2,7 +2,7 @@ Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có th�
 
 ### Bước 1: Liên kết ngay
 
-  <div class="guide-container grid grid--2-cols">
+  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
       <div class="guide-title guide-title--5">Nếu chưa liên kết với thiết bị nào</div>
       <div class="guide-title guide-sub-title--5">Ở màn hình điều khiển nhấn vào nút “Liên kết ngay”.</div>
@@ -24,7 +24,7 @@ Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có th�
 -   Tên gợi nhớ: Đặt tuỳ ý tối thiểu 4 ký tự (ví dụ: May tinh 1)
 -   Mã liên kết: Lấy mã liên kết ở bước [1.2. Kích hoạt giấy phép](../activate-license/)
 
-<div class="guide-container grid grid--2-cols">
+<div class="guide-container guide-grid grid--2-cols">
   <div class="guide-card">
     <div class="guide-title guide-title--5">Nhấn “Thêm thiết bị”</div>
     <div class="guide-content guide-content--95">

@@ -18,4 +18,4 @@ python3 doc2mdbyindex2.py
 #
 mkdocs build
 cd site
-python -m http.server
+python3 -m http.server
