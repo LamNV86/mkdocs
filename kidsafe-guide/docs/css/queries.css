@@ -41,6 +41,19 @@
 /**************************/
 
 @media (max-width: 34em) {
+    .guide-card .guide-title--5,
+    .guide-card .guide-title--10,
+    .guide-card .guide-title--15,
+    .guide-card .guide-title--20,
+    .guide-card .guide-title--25,
+    .guide-card .guide-sub-title--5,
+    .guide-card .guide-sub-title--10,
+    .guide-card .guide-sub-title--15,
+    .guide-card .guide-sub-title--20,
+    .guide-card .guide-sub-title--25 {
+        flex: 0 0 0%;
+    }
+
     .guide-grid {
         row-gap: 48px !important;
         row-gap: 16px !important;

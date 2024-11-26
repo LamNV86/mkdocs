@@ -77,6 +77,5 @@ Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
       <img src="../../img/ip3.png" alt="Xem ảnh chụp">
     </div>
   </div>
-  <div class="guide-card">
-  </div>
+  <div></div>
 </div>

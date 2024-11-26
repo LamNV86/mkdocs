@@ -1,6 +1,4 @@
-# Hỗ trợ
-
-Các chủ đề ngoài phạm vi KidSafe
+# Mở rộng
 
 ---
 
@@ -11,3 +9,4 @@ Các chủ đề về giúp phụ huynh quản lý hiệu quả con sử dụng 
 -   [Cấu hình lọc nội dung trong Apple Family](content-filter-ios.md)
 -   [Thêm/xoá trang web trong Apple Family](content-filter-ios-rm.md)
 -   [Hướng Dẫn Cài Đặt Windows 10](install-win-10.md)
+-   [Bỏ cấu hình giới hạn chỉ cài đặt ứng dụng từ Microsoft Store](remove-limit-only-microsoft-store.md)

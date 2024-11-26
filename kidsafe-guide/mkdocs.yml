@@ -4,6 +4,8 @@ site_description: Hướng dẫn cài đặt và sử dụng KidSafe.
 site_author: GreenKite Co.
 theme:
     name: material
+    # custom_dir: overrides
+    favicon: img/favicon.png
     color_mode: auto
     user_color_mode_toggle: true
     locale: en
@@ -30,7 +32,7 @@ markdown_extensions:
           repo: mkdocs
     - mkdocs-click
 
-copyright: Copyright &copy; 2024 <a href="https://twitter.com/starletdreaming">GreenKite Co.</a>
+copyright: Copyright &copy; 2024 <a href="https://kidsafe.com.vn">GreenKite Co.</a>
 
 hooks:
     - docs/hooks.py
@@ -72,8 +74,5 @@ nav:
     - Hướng dẫn: index.md
     - 1. Hướng dẫn cài đặt: install-guide/
     - 2. Hướng dẫn sử dụng: usage-guide/
-    - Help:
-          - Hỏi đáp: help/qa.md
-          - Mở KidSafe: help/open-pc.md
-          - Gỡ cài đặt KidSafe: help/uninstall-pc.md
+    - Help: help/
     - Other: tip/

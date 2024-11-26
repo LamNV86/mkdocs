@@ -1,4 +1,4 @@
-## Bật/tắt các tính năng
+## 2.1.1. Bật/tắt các tính năng
 
 Sau khi liên kết thành công điện thoại với máy tính, ở tab “Điều khiển” có thể bật/tắt nhanh các tính năng:
 
@@ -26,7 +26,7 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
 | **Bật lập lịch chặn game**     | ![Hình ảnh 11](../img/f11.png) | Bật lập lịch việc chặn game.                                                                                                                  |
 | **Tắt lập lịch chặn game**     | ![Hình ảnh 12](../img/f12.png) | Tắt lập lịch chặn game.                                                                                                                       |
 
-## Khoá/mở khoá máy tính
+## 2.1.2. Khoá/mở khoá máy tính
 
 -   Có thể khoá hoặc mở khoá máy tính ở thời điểm bất kỳ
 -   Vào tab Điều khiển > Vùng tiện ích > Dòng Khoá/mở máy tính
@@ -38,6 +38,39 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
         <img src="../../img/ip14.png" alt="Khoá/mở máy tính">
       </div>
     </div>
-    <div class="guide-card">
+    <div></div>
+  </div>
+
+## 2.1.3. Tắt nguồn máy tính
+
+-   Vào tab Điều khiển > Vùng tiện ích > Dòng Tắt nguồn máy tính
+<div class="guide-container guide-grid grid--2-cols">
+  <div class="guide-card">
+    <div class="guide-title guide-title--5">Tắt nguồn máy tính</div>
+    <div class="guide-content guide-content--95">
+      <img src="../../img/ip38.png" alt="Tắt nguồn máy tính">
     </div>
   </div>
+  <div></div>
+</div>
+
+## 2.1.4. Xem lịch sử lệnh
+
+-   Vào tab Điều khiển > Vùng tiện ích > Dòng Lịch sử lệnh
+-   Màu xanh lá cây với biểu tượng tích xanh: lệnh đã thực hiện thành công
+-   Màu vàng với biểu tượng đồng hồ cát: lệnh đang được thực hiện
+-   Màu xanh dương nhạt với nhãn "NEW": lệnh mới gửi, chưa được thực hiện
+<div class="guide-container guide-grid grid--2-cols">
+  <div class="guide-card">
+    <div class="guide-title guide-title--5">Lịch sử lệnh</div>
+    <div class="guide-content guide-content--95">
+      <img src="../../img/ip39.png" alt="Lịch sử lệnh">
+    </div>
+  </div>
+  <div class="guide-card">
+    <div class="guide-title guide-title--5">Danh sách lệnh</div>
+    <div class="guide-content guide-content--95">
+      <img src="../../img/ip40.png" alt="Danh sách lệnh">
+    </div>
+  </div>
+</div>

@@ -6,7 +6,7 @@ Tính năng này cho phép:
 -   Chỉ khi nào xem ảnh thì ảnh mới được load lên điện thoại do đó không tốn dung lượng điện thoại để lưu ảnh.
 -   Tuỳ chỉnh thời gian lưu ảnh trên máy tính (sau thời gian này ảnh được xoá tự động).
 
-## Xem ảnh chụp màn hình
+## 2.3.1. Xem ảnh chụp màn hình
 
 -   Vào tab “Ảnh màn hình” => các ảnh chụp sẽ hiển thị theo ngày, theo khung giờ
 <div class="guide-container guide-grid grid--2-cols">
@@ -16,11 +16,10 @@ Tính năng này cho phép:
       <img src="../../img/ip17.png" alt="Xem ảnh chụp">
     </div>
   </div>
-  <div class="guide-card">
-  </div>
+  <div></div>
 </div>
 
-## Thay đổi cấu hình chụp ảnh
+## 2.3.2. Thay đổi cấu hình chụp ảnh
 
   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
