@@ -4,7 +4,7 @@ Những chia sẻ, đóng góp từ quý phụ huynh chính là nguồn động 
 
 ---
 
-  <div class="guide-container guide-grid grid--3-cols">
+  <div class="guide-container guide-grid guide-grid--narrow grid--3-cols">
     <div class="guide-card">
       <div class="guide-content">  
         <img src="../../img/tml/tml1.png" alt="Phản hồi của phụ huynh 1">
@@ -35,9 +35,4 @@ Những chia sẻ, đóng góp từ quý phụ huynh chính là nguồn động 
         <img src="../../img/tml/tml6.png" alt="Phản hồi của phụ huynh 3">
       </div>
     </div>       
-    <div class="guide-card">
-      <div class="guide-content">  
-        <img src="../../img/tml/tml7.png" alt="Phản hồi của phụ huynh 3">
-      </div>
-    </div>        
   </div>

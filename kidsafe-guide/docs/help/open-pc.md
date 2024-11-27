@@ -4,7 +4,7 @@
 
 ![Mở system tray](../img/ok1.png)
 
-## Bước 2: Nhấp chuột phải vào biểu tượng KidSafe và chọn Mở.
+## Bước 2: Nhấp chuột phải vào biểu tượng KidSafe và chọn "Mở chương trình".
 
 ![Mở KidSafe](../img/ok2.png)
 

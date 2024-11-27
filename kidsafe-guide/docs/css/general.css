@@ -92,6 +92,11 @@ html {
     row-gap: 64px;
 }
 
+.guide-grid--narrow {
+    column-gap: 16px !important;
+    row-gap: 32px !important;
+}
+
 .grid--2-cols {
     grid-template-columns: repeat(2, 1fr);
 }
