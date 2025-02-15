@@ -1,10 +1,20 @@
+---
+title: Hướng dẫn kiểm soát truy cập web trong KidSafe
+description: Hướng dẫn chi tiết cách sử dụng tính năng kiểm soát truy cập web trong KidSafe, bao gồm chặn/mở trang web theo nhóm, chế độ kiểm soát mạng, và tự động cập nhật cơ sở dữ liệu web từ server.
+keywords: KidSafe, kiểm soát truy cập web, chặn web, chặn game online, chặn mạng xã hội, quản lý web, hướng dẫn KidSafe
+---
+
+# Kiểm soát truy cập web
+
 Tính năng này cho phép:
 
--   Chặn truy cập các trang web khiêu dâm, game online, mạng xã hội,…
--   Chặn/mở các trang web theo nhóm; các nhóm có sẵn: khiêu dâm, game online, mạng xã hội,...
--   Chặn/mở trang web bất kỳ do người dùng tự thêm vào.
--   Hỗ trợ hai chế độ kiểm soát mạng: vừa phải và nghiêm ngặt.
--   Cơ sở dữ liệu web được cập nhật tự động từ server về.
+-   **Chặn truy cập các trang web không mong muốn**: Bao gồm các trang web khiêu dâm, game online, mạng xã hội, và nhiều nhóm khác.
+-   **Chặn/mở các trang web theo nhóm**: Các nhóm có sẵn như khiêu dâm, game online, mạng xã hội,… giúp quản lý dễ dàng hơn.
+-   **Chặn/mở trang web bất kỳ**: Người dùng có thể tự thêm các URL cụ thể vào danh sách chặn hoặc mở.
+-   **Hỗ trợ hai chế độ kiểm soát mạng**:
+    -   **Vừa phải**: Cho phép kiểm soát linh hoạt, phù hợp với việc truy cập thông thường.
+    -   **Nghiêm ngặt**: Kiểm soát chặt chẽ hơn, ngăn chặn toàn bộ các trang web không phù hợp.
+-   **Cơ sở dữ liệu web được cập nhật tự động từ server**: Danh sách các trang web trong nhóm chặn được duy trì và làm mới thường xuyên.
 
 ## 2.2.1. Hai chế độ kiểm soát mạng
 
@@ -135,7 +145,12 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
 
 ---
 
-## Để kiểm soát hiệu quả
+## Lợi ích
 
--   Phụ huynh có thể chọn kiểm soát vừa phải, sau đó theo dõi con vào trang web nào? nếu không muốn con vào trang đó thì chặn lại (xem thêm [Lịch sử truy cập web](/usage-guide/usage-history/#xem-lich-su-truy-cap-cac-trang-web))
--   Hoặc phụ huynh có thể chọn chế độ kiểm soát nghiêm ngặt, nếu con vào trang nào đó bị chặn thì có thể mở ra (xem thêm [2.2.4](/usage-guide/web-control/#224-chanmo-truy-cap-website-bat-ky))
+-   Đảm bảo an toàn khi truy cập internet cho trẻ bằng cách chặn các trang web không phù hợp.
+-   Dễ dàng quản lý các nhóm trang web với danh sách được cập nhật tự động.
+-   Linh hoạt trong việc chặn hoặc mở các trang web theo nhu cầu thực tế.
+-   Hai chế độ kiểm soát mạng giúp phụ huynh điều chỉnh phù hợp với từng tình huống:
+
+    -   Có thể chọn kiểm soát vừa phải, sau đó theo dõi con vào trang web nào? nếu không muốn con vào trang đó thì chặn lại (xem thêm [Lịch sử truy cập web](/usage-guide/usage-history/#xem-lich-su-truy-cap-cac-trang-web))
+    -   Hoặc chọn chế độ kiểm soát nghiêm ngặt, nếu con vào trang nào đó bị chặn thì có thể mở ra (xem thêm [2.2.4](/usage-guide/web-control/#224-chanmo-truy-cap-website-bat-ky))

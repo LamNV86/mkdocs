@@ -1,3 +1,9 @@
+---
+title: Hướng dẫn cài đặt
+description: Hướng dẫn chi tiết cách cài đặt ứng dụng KidSafe trên máy tính Windows và KidSafe Admin trên các thiết bị khác, bao gồm kích hoạt giấy phép và kết nối điện thoại với máy tính.
+keywords: cài đặt KidSafe, KidSafe Admin, máy tính Windows, điện thoại, kích hoạt giấy phép, kết nối thiết bị, hướng dẫn cài đặt
+---
+
 # Hướng dẫn cài đặt
 
 Cài đặt KidSafe trên máy tính của con và KidSafe Admin trên điện thoại của phụ huynh

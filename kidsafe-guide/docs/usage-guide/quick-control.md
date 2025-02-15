@@ -1,13 +1,19 @@
+---
+title: Hướng dẫn bật/tắt các tính năng trong KidSafe
+description: Hướng dẫn cách bật hoặc tắt nhanh các tính năng kiểm soát truy cập web, chặn game/ứng dụng, chụp ảnh màn hình, và lập lịch khóa máy tính, chặn mạng hoặc game trên KidSafe.
+keywords: KidSafe, bật tắt tính năng, kiểm soát truy cập web, chặn game, lập lịch khóa máy tính, chặn mạng, hướng dẫn KidSafe
+---
+
 ## 2.1.1. Bật/tắt các tính năng
 
 Sau khi liên kết thành công điện thoại với máy tính, ở tab “Điều khiển” có thể bật/tắt nhanh các tính năng:
 
--   Kiểm soát truy cập web
--   Chặn game/ứng dụng
--   Chụp ảnh màn hình
--   Lập lịch khóa máy tính
--   Lập lịch chặn vào mạng
--   Lập lịch chặn game
+-   **Kiểm soát truy cập web**: Bật/tắt việc kiểm soát truy cập các trang web trên máy tính của con.
+-   **Chặn game/ứng dụng**: Bật/tắt tính năng chặn các game hoặc ứng dụng cụ thể.
+-   **Chụp ảnh màn hình**: Bật/tắt việc ghi lại ảnh màn hình của máy tính.
+-   **Lập lịch khóa máy tính**: Bật/tắt tính năng tự động khóa máy tính theo lịch đặt trước.
+-   **Lập lịch chặn vào mạng**: Bật/tắt chặn truy cập mạng vào thời gian nhất định.
+-   **Lập lịch chặn game**: Bật/tắt chặn truy cập game vào khung giờ cụ thể.
 
 ## Tính năng và Mô tả
 

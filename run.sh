@@ -20,3 +20,6 @@ cd kidsafe-guide
 #mkdocs build
 #cd site
 #python3 -m http.server
+
+#pip3 install mkdocs-ultralytics-plugin
+#pip3 install mkdocs-simple-hooks

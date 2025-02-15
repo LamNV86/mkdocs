@@ -1,3 +1,11 @@
+---
+title: Hướng dẫn chặn và quản lý game, ứng dụng trong KidSafe
+description: Hướng dẫn chi tiết cách chặn, mở chặn, và thêm mới game hoặc ứng dụng vào danh sách quản lý trên KidSafe, bao gồm các thao tác và tính năng hỗ trợ từ server.
+keywords: KidSafe, chặn game, mở chặn ứng dụng, quản lý game, thêm game vào danh sách, hướng dẫn KidSafe
+---
+
+# Tính năng chặn game và ứng dụng
+
 Tính năng này cho phép:
 
 -   Chặn các game hoặc ứng dụng cài trên máy tính.
@@ -41,13 +49,13 @@ Tính năng này cho phép:
 
   <div class="guide-container guide-grid grid--3-cols">
     <div class="guide-card">
-      <div class="guide-title guide-title--15 guide-title--bullet">Ở màn hình chặn game/ứng dụng, nhấn dấu +</div>
+      <div class="guide-title guide-title--15 guide-title--bullet">Ở màn hình chặn game/ứng dụng, nhấn +</div>
       <div class="guide-content guide-content--85">  
         <img src="../../img/ip22.png" alt="Chặn game/ứng dụng">
       </div>
     </div>
     <div class="guide-card">
-      <div class="guide-title guide-title--15 guide-title--bullet">Nhập các thông tin: tên, danh sách process của game/ứng dụng</div>
+      <div class="guide-title guide-title--15 guide-title--bullet">Nhập các thông tin cần thiết</div>
       <div class="guide-content guide-content--85">  
         <img src="../../img/ip23.png" alt="Chặn game/ứng dụng">
       </div>

@@ -1,11 +1,19 @@
+---
+title: Hướng dẫn cài đặt và sử dụng KidSafe
+description: Hướng dẫn chi tiết cách cài đặt và sử dụng KidSafe, phần mềm bảo vệ trẻ em sử dụng máy tính an toàn với các tính năng quản lý truy cập web, chặn game, lịch sử sử dụng, và lập lịch khóa máy.
+keywords: cài đặt KidSafe, sử dụng KidSafe, hướng dẫn KidSafe, phần mềm quản lý trẻ em, bảo vệ trẻ em, chặn game, quản lý truy cập web
+---
+
 # Hướng dẫn cài đặt và sử dụng KidSafe
 
 ---
 
 <p>
-  KidSafe là giải pháp bảo vệ và giám sát tuyệt vời giúp trẻ em sử dụng máy tính an toàn, hiệu quả trong không gian mạng. Với sự hỗ trợ của phần mềm KidSafe, bạn hoàn toàn có thể yên tâm khi con mình khám phá thế giới online. Bắt đầu bằng cách đọc 
-  <a href="install-guide/" class="link-primary">Hướng Dẫn Cài Đặt</a>, sau đó tham khảo 
-  <a href="usage-guide/" class="link-primary">Hướng Dẫn Sử Dụng</a> để biết thêm chi tiết.
+
+KidSafe là giải pháp bảo vệ và giám sát tuyệt vời giúp trẻ em sử dụng máy tính an toàn, hiệu quả trong không gian mạng. Với sự hỗ trợ của phần mềm KidSafe, bạn hoàn toàn có thể yên tâm khi con mình khám phá thế giới online. Bắt đầu bằng cách đọc
+<a href="install-guide/" class="link-primary">Hướng Dẫn Cài Đặt</a>, sau đó tham khảo
+<a href="usage-guide/" class="link-primary">Hướng Dẫn Sử Dụng</a> để biết thêm chi tiết.
+
 </p>
 
 <div class="center-text">
@@ -104,3 +112,10 @@
     </div>
   </div>  
 </div>
+
+---
+
+## Kết luận
+
+Với các tính năng đa dạng và mạnh mẽ, KidSafe là công cụ hữu ích để hỗ trợ phụ huynh quản lý và bảo vệ trẻ em khi sử dụng máy tính.  
+Hãy bắt đầu với [Hướng dẫn cài đặt](install-guide/) và [Hướng dẫn sử dụng](usage-guide/) để tận dụng tối đa phần mềm này.
