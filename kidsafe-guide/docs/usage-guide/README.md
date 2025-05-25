@@ -1,6 +1,10 @@
-# Hướng dẫn sử dụng
+---
+title: Hướng dẫn sử dụng
+description: Hướng dẫn chi tiết cách sử dụng các tính năng của ứng dụng KidSafe Admin, bao gồm kiểm soát truy cập web, chụp ảnh màn hình, nhật ký truy cập và lập lịch chặn game.
+keywords: KidSafe Admin, kiểm soát web, chặn game, lập lịch, nhật ký truy cập, hướng dẫn sử dụng, quản lý thiết bị
+---
 
-Sử dụng KidSafe Admin
+# Hướng dẫn sử dụng
 
 ---
 
@@ -14,5 +18,3 @@ Hướng dẫn này cung cấp tài liệu chi tiết để người dùng khai 
 -   [2.6. Lập lịch khoá máy tính](schedule-pc.md)
 -   [2.7. Lập lịch chặn game](schedule-game.md)
 -   [2.8. Cài đặt chung](common-setting.md)
-
-[Hướng dẫn cài đặt]: ../install-guide/install-on-phone.md

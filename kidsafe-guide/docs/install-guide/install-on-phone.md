@@ -1,6 +1,14 @@
+---
+title: Hướng dẫn tải và đăng ký ứng dụng KidSafe Admin trên điện thoại
+description: Hướng dẫn chi tiết cách tải ứng dụng KidSafe Admin trên Android và iOS, cùng với các bước đăng ký tài khoản và đăng nhập để sử dụng.
+keywords: KidSafe Admin, tải ứng dụng, đăng ký tài khoản KidSafe, Android, iPhone, hướng dẫn sử dụng KidSafe
+---
+
+# Tải ứng dụng và đăng ký KidSafe Admin
+
 Trên điện thoại của phụ huynh, thực hiện theo các bước sau:
 
-### Bước 1: Tải KidSafe Admin trên iOS hoặc Android
+## Bước 1: Tải KidSafe Admin trên iOS hoặc Android
 
    <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
@@ -37,7 +45,7 @@ Trên điện thoại của phụ huynh, thực hiện theo các bước sau:
     </div>
   </div>
 
-### Bước 2: Đăng ký tài khoản KidSafe Admin
+## Bước 2: Đăng ký tài khoản KidSafe Admin
 
 Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
 

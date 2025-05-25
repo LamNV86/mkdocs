@@ -1,6 +1,14 @@
-Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có thể liên kết điện thoại với máy tính
+---
+title: Hướng dẫn liên kết điện thoại với máy tính trong KidSafe
+description: Hướng dẫn chi tiết cách liên kết ứng dụng KidSafe Admin trên điện thoại với máy tính, bao gồm các bước nhập thông tin và kiểm tra thiết bị đã liên kết.
+keywords: KidSafe, liên kết điện thoại, liên kết máy tính, hướng dẫn liên kết thiết bị, quản lý KidSafe
+---
 
-### Bước 1: Liên kết ngay
+# Liên kết điện thoại với máy tính
+
+Sau khi đã cài đặt ứng dụng KidSafe trên cả máy tính và điện thoại, bạn có thể thực hiện liên kết theo các bước sau:
+
+## Bước 1: Liên kết ngay
 
   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
@@ -19,7 +27,7 @@ Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có th�
     </div>
   </div>
 
-### Bước 2: Ở màn hình “Thêm thiết bị”, nhập các thông tin:
+## Bước 2: Ở màn hình “Thêm thiết bị”, nhập các thông tin:
 
 -   Tên gợi nhớ: Đặt tuỳ ý tối thiểu 4 ký tự (ví dụ: May tinh 1)
 -   Mã liên kết: Lấy mã liên kết ở bước [1.2. Kích hoạt giấy phép](../activate-license/)
@@ -39,3 +47,8 @@ Sau khi đã cài cả trên máy tính và điện thoại, bây giờ có th�
     </div>
   </div>  
 </div>
+
+## Lưu ý
+
+-   Đảm bảo nhập đúng **mã liên kết** để tránh lỗi khi liên kết.
+-   Bạn có thể thêm nhiều thiết bị vào tài khoản của mình để quản lý từ ứng dụng KidSafe Admin.

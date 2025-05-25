@@ -1,9 +1,15 @@
+---
+title: Hướng dẫn sử dụng tính năng nhật ký truy cập web và chạy ứng dụng trong KidSafe
+description: Tìm hiểu cách sử dụng tính năng nhật ký truy cập web và nhật ký chạy ứng dụng trên máy tính trong KidSafe. Hướng dẫn chi tiết cách xem lịch sử, chặn trang web và ứng dụng trực tiếp từ nhật ký.
+keywords: KidSafe, nhật ký truy cập web, nhật ký chạy ứng dụng, quản lý máy tính, chặn trang web, chặn ứng dụng, hướng dẫn KidSafe
+---
+
 ## 2.4.1. Nhật ký truy cập web
 
 Tính năng này cho phép:
 
--   Xem lịch sử truy cập các trang web.
--   Chặn các trang web đã truy cập từ nhật ký truy cập.
+-   **Xem lịch sử truy cập các trang web**: Hiển thị chi tiết các trang web đã truy cập trên máy tính.
+-   **Chặn các trang web đã truy cập từ nhật ký**: Người dùng có thể dễ dàng chặn các trang web không mong muốn trực tiếp từ danh sách lịch sử truy cập.
 
 ### Xem lịch sử truy cập các trang web.
 
@@ -41,9 +47,9 @@ Tính năng này cho phép:
 
 Tính năng này cho phép:
 
--   Xem toàn bộ lịch sử chạy các ứng dụng trên máy.
--   Lịch sử truy cập được phân chia theo ngày.
--   Có thể chặn/mở các ứng dụng trong danh sách lịch sử này.
+-   **Xem toàn bộ lịch sử chạy các ứng dụng trên máy tính**: Hiển thị danh sách chi tiết các ứng dụng đã mở trên máy.
+-   **Lịch sử truy cập được phân chia theo ngày**: Người dùng dễ dàng tìm kiếm lịch sử theo thời gian cụ thể.
+-   **Chặn/mở các ứng dụng trong danh sách lịch sử**: Quản lý trực tiếp các ứng dụng từ nhật ký, bao gồm việc chặn hoặc mở lại các ứng dụng.
 
   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
@@ -54,3 +60,11 @@ Tính năng này cho phép:
     </div>
     <div></div>
   </div>
+
+---
+
+## Lợi ích
+
+-   Giúp phụ huynh theo dõi chi tiết các hoạt động truy cập web và sử dụng ứng dụng của con.
+-   Nhanh chóng chặn các trang web hoặc ứng dụng không mong muốn trực tiếp từ nhật ký.
+-   Phân chia lịch sử theo ngày giúp việc quản lý dễ dàng và hiệu quả hơn.

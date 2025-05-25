@@ -49,8 +49,12 @@ markdown_extensions:
     #      user: mkdocs
     #      repo: mkdocs
     # - mkdocs-click
+    - mkdocstrings
+    - search
+    - ultralytics:
+          add_keywords: True
 
-copyright: Copyright &copy; 2014 <a href="https://twitter.com/starletdreaming">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
+copyright: Copyright &copy; 2024 <a href="https://twitter.com/starletdreaming">GreenKite Co.</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">KidSafe Team</a>.
 
 hooks:
     - docs/hooks.py

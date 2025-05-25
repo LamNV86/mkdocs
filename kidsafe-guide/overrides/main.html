@@ -1,7 +1,14 @@
-{% extends "base.html" %} {% block header %} {% block footer %}
-<footer>
-    <div class="container">
-        <p>&copy; 2024 Kidsafe. All rights reserved.</p>
-    </div>
-</footer>
+{% extends "base.html" %} {% block scripts %} {{ super() }}
+<script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-Y3YNDLZ7S9"
+></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-Y3YNDLZ7S9");
+</script>
 {% endblock %}

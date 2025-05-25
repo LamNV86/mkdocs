@@ -1,6 +1,14 @@
-# Hướng dẫn chặn/mở nhanh youtube, zalo, facebook, tiktok
+---
+title: Hướng dẫn chặn/mở nhanh YouTube, Zalo, Facebook, TikTok
+description: Hướng dẫn chi tiết cách chặn hoặc mở nhanh các trang YouTube, Zalo, Facebook, TikTok thông qua tab “Lọc web” trong KidSafe.
+keywords: chặn YouTube, chặn Facebook, mở YouTube, mở Facebook, chặn TikTok, mở Zalo, hướng dẫn KidSafe, lọc nhanh KidSafe
+---
 
--   Chặn mở nhanh các trang youtube, zalo, facebook, tiktok bằng cách tích chọn
+# Hướng dẫn chặn/mở nhanh YouTube, Zalo, Facebook, TikTok
+
+Dễ dàng chặn hoặc mở nhanh các trang YouTube, Zalo, Facebook, TikTok bằng cách sử dụng tính năng "Lọc nhanh" trong KidSafe. Hãy làm theo hướng dẫn dưới đây:
+
+---
 
  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
@@ -22,3 +30,7 @@
       </div>
     </div>
   </div>
+
+## Kết luận
+
+Tính năng "Lọc nhanh" giúp phụ huynh kiểm soát nội dung con trẻ truy cập một cách nhanh chóng và dễ dàng.

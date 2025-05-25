@@ -1,36 +1,48 @@
-from __future__ import annotations
-
 import re
-from pathlib import Path
-from typing import TYPE_CHECKING
+import logging
 
-if TYPE_CHECKING:
-    from mkdocs.config.defaults import MkDocsConfig
-    from mkdocs.structure.nav import Page
+# Cấu hình logging
+logging.basicConfig(
+    filename='mkdocs-hooks.log',  # File log sẽ lưu ở thư mục làm việc hiện tại
+    level=logging.DEBUG,  # Mức log: DEBUG để ghi đầy đủ thông tin
+    format='%(asctime)s - %(levelname)s - %(message)s'  # Định dạng log
+)
 
+logging.info("Hooks file loaded successfully.")
 
-def _get_language_of_translation_file(path: Path) -> str:
-    with path.open(encoding='utf-8') as f:
-        translation_line = f.readline()
-    m = re.search('^# (.+) translations ', translation_line)
-    assert m
-    return m[1]
+def on_page_markdown(markdown, page, config, files):
+    """
+    Extracts `keywords` metadata from the Markdown file and attaches it to the page.
+    """
+    logging.debug(f"Processing page: {page.file.src_path}")
+    try:
+        # Tìm trường `keywords` trong phần frontmatter của Markdown
+        match = re.search(r'^keywords:\s*(.+)$', markdown, re.MULTILINE)
+        if match:
+            keywords = match.group(1).strip()
+            logging.debug(f"Found keywords: {keywords}")
+            if not hasattr(page, 'meta'):
+                page.meta = {}
+            page.meta['keywords'] = keywords
+        else:
+            logging.warning(f"No keywords found for page: {page.file.src_path}")
+    except Exception as e:
+        logging.error(f"Error processing page {page.file.src_path}: {str(e)}")
+    return markdown
 
-
-def on_page_markdown(markdown: str, page: Page, config: MkDocsConfig, **kwargs) -> str | None:
-    if page.file.src_uri == 'user-guide/choosing-your-theme.md':
-        here = Path(config.config_file_path).parent
-
-        def replacement(m: re.Match) -> str:
-            lines = []
-            for d in sorted(here.glob(m[2])):
-                lang = _get_language_of_translation_file(Path(d, 'LC_MESSAGES', 'messages.po'))
-                lines.append(f'{m[1]}`{d.name}`: {lang}')
-            return '\n'.join(lines)
-
-        return re.sub(
-            r'^( *\* )\(see the list of existing directories `(.+)`\)$',
-            replacement,
-            markdown,
-            flags=re.MULTILINE,
-        )
+def on_post_page(output_content, page, config):
+    """
+    Injects a <meta> tag for `keywords` into the rendered HTML head.
+    """
+    logging.debug(f"Post-processing page: {page.file.src_path}")
+    try:
+        if hasattr(page, 'meta') and 'keywords' in page.meta:
+            keywords_meta = f'<meta name="keywords" content="{page.meta["keywords"]}">'
+            logging.debug(f"Injecting meta keywords: {keywords_meta}")
+            # Thêm thẻ <meta> ngay trước </head>
+            output_content = re.sub(r'(?i)(</head>)', f'{keywords_meta}\\1', output_content)
+        else:
+            logging.warning(f"No keywords meta to inject for page: {page.file.src_path}")
+    except Exception as e:
+        logging.error(f"Error injecting meta keywords for page {page.file.src_path}: {str(e)}")
+    return output_content
