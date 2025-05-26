@@ -49,19 +49,19 @@ Trên điện thoại của phụ huynh, thực hiện theo các bước sau:
 
 Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
 
--   Nếu bạn chưa có tài khoản, nhấn vào nút **“Đăng ký”**.
+-   Nếu bạn chưa có tài khoản, nhấn vào nút **“Tạo tài khoản”**.
 
-    1. Ở màn hình đăng ký, nhập:
-        - **Tên đăng nhập**: Tùy ý bạn chọn, đảm bảo tối thiểu có 4 ký tự và chưa tồn tại.
-            - Nếu tên đăng nhập đã tồn tại, hệ thống sẽ báo lỗi:  
-              **“Tên đăng nhập đã tồn tại, mời bạn chọn tên khác để đăng ký.”**
-        - **Mật khẩu**: Tùy ý bạn chọn, đảm bảo tối thiểu 4 ký tự.
+    1. Ở màn hình tạo tài khoản, nhập:
+        - **Số điện thoại hoặc email**: Nhập email hoặc số điện thoại của bạn.
+            - Nếu email hoặc số điện thoại đã tồn tại, hệ thống sẽ báo lỗi:  
+              **“Số điện thoại/email đã được sử dụng trước đó.”**
+        - **Mật khẩu**: Tùy ý bạn chọn, đảm bảo tối thiểu 6 ký tự.
         - **Nhập lại mật khẩu**: Nhập lại đúng mật khẩu bạn đã nhập.
-    2. Nhấn **“Đăng ký”** để tạo tài khoản.
+    2. Nhấn **“Tạo tài khoản”** để tạo tài khoản.
 
   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
-      <div class="guide-title guide-title--5">Nhấn đăng ký</div>
+      <div class="guide-title guide-title--5">Tạo tài khoản</div>
       <div class="guide-content guide-content--95">  
         <img src="../../img/ip1.png" alt="">
       </div>
@@ -82,7 +82,7 @@ Khi mở **KidSafe Admin** trên điện thoại, ở màn hình đăng nhập:
   <div class="guide-card">
     <div class="guide-title guide-title--5">Đăng nhập</div>
     <div class="guide-content guide-content--95">
-      <img src="../../img/ip3.png" alt="Xem ảnh chụp">
+      <img src="../../img/ip3.png" alt="Đăng nhập">
     </div>
   </div>
   <div></div>
