@@ -11,14 +11,25 @@ Tính năng này cho phép:
 -   **Chặn truy cập các trang web không mong muốn**: Bao gồm các trang web khiêu dâm, game online, mạng xã hội, và nhiều nhóm khác.
 -   **Chặn/mở các trang web theo nhóm**: Các nhóm có sẵn như khiêu dâm, game online, mạng xã hội,… giúp quản lý dễ dàng hơn.
 -   **Chặn/mở trang web bất kỳ**: Người dùng có thể tự thêm các URL cụ thể vào danh sách chặn hoặc mở.
--   **Hỗ trợ hai chế độ kiểm soát mạng**:
+-   **Hỗ trợ hai chế độ lọc**:
     -   **Vừa phải**: Cho phép kiểm soát linh hoạt, phù hợp với việc truy cập thông thường.
     -   **Nghiêm ngặt**: Kiểm soát chặt chẽ hơn, ngăn chặn toàn bộ các trang web không phù hợp.
 -   **Cơ sở dữ liệu web được cập nhật tự động từ server**: Danh sách các trang web trong nhóm chặn được duy trì và làm mới thường xuyên.
 
-## 2.2.1. Hai chế độ kiểm soát mạng
+## 2.2.1. Hai chế độ lọc
 
-Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
+-   Ở tab "Lọc web", chọn dòng "Chế độ lọc"
+-   Ở màn hình "Chế độ lọc web", chọn chế độ soát vừa phải hoặc kiểm soát nghiêm ngặt
+
+  <div class="guide-container guide-grid grid--2-cols">
+    <div class="guide-card">
+      <div class="guide-title guide-title--5">Vào tab "Lọc web" > dòng "Chế độ lọc"</div>
+      <div class="guide-content guide-content--95">
+        <img src="../../img/ip43.png" alt="Nhật ký truy cập web">
+      </div>
+    </div>
+    <div></div>
+  </div>
 
  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
@@ -27,10 +38,9 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
       Chỉ chặn một số website, tất cả các website khác được mở.
       </div>
       <div class="guide-sub-title guide-sub-title--15">
-      - Vào tab "Lọc web" > tab "Lọc nhóm".<br>
-      - Chọn các nhóm website cần chặn (tích đỏ) => Các website trong các nhóm được chọn sẽ bị chặn truy cập được, tất cả các website khác đều vào được.
+      - Chọn các nhóm website cần chặn (tích đỏ) => Các website trong các nhóm được chọn sẽ bị chặn truy cập, tất cả các website khác đều vào được.
       </div>
-      <div class="guide-content guide-content--75">  
+      <div class="guide-content guide-content--75">
         <img src="../../img/ip7.png" alt="Chế độ kiểm soát mạng vừa phải">
       </div>
     </div>
@@ -40,7 +50,6 @@ Kiểm soát vừa phải và Kiểm soát nghiêm ngặt
       Chỉ mở một số website, tất cả các website khác bị chặn.
       </div>
       <div class="guide-sub-title guide-sub-title--15">
-      - Vào tab "Lọc web" > tab "Lọc nhóm".<br>
       - Chọn các nhóm website được mở (tích xanh) => Các website trong các nhóm được chọn sẽ được mở truy cập, tất cả các website khác sẽ bị chặn.
       </div>
       <div class="guide-content guide-content--75">

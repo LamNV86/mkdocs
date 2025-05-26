@@ -29,8 +29,8 @@ Sau khi đã cài đặt ứng dụng KidSafe trên cả máy tính và điện 
 
 ## Bước 2: Ở màn hình “Thêm thiết bị”, nhập các thông tin:
 
--   Tên gợi nhớ: Đặt tuỳ ý tối thiểu 4 ký tự (ví dụ: May tinh 1)
 -   Mã liên kết: Lấy mã liên kết ở bước [1.2. Kích hoạt giấy phép](../activate-license/)
+-   Tên gợi nhớ: Đặt tuỳ ý tối thiểu 3 ký tự (ví dụ: PC 1)
 
 <div class="guide-container guide-grid grid--2-cols">
   <div class="guide-card">

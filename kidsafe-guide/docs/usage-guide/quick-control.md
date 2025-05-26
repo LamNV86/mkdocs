@@ -6,14 +6,14 @@ keywords: KidSafe, bật tắt tính năng, kiểm soát truy cập web, chặn 
 
 ## 2.1.1. Bật/tắt các tính năng
 
-Sau khi liên kết thành công điện thoại với máy tính, ở tab “Điều khiển” có thể bật/tắt nhanh các tính năng:
+Sau khi liên kết thành công điện thoại với máy tính, ở tab “Điều khiển” có thể bật/tắt nhanh các tính năng
 
--   **Kiểm soát truy cập web**: Bật/tắt việc kiểm soát truy cập các trang web trên máy tính của con.
+<!-- -   **Kiểm soát truy cập web**: Bật/tắt việc kiểm soát truy cập các trang web trên máy tính của con.
 -   **Chặn game/ứng dụng**: Bật/tắt tính năng chặn các game hoặc ứng dụng cụ thể.
 -   **Chụp ảnh màn hình**: Bật/tắt việc ghi lại ảnh màn hình của máy tính.
 -   **Lập lịch khóa máy tính**: Bật/tắt tính năng tự động khóa máy tính theo lịch đặt trước.
 -   **Lập lịch chặn vào mạng**: Bật/tắt chặn truy cập mạng vào thời gian nhất định.
--   **Lập lịch chặn game**: Bật/tắt chặn truy cập game vào khung giờ cụ thể.
+-   **Lập lịch chặn game**: Bật/tắt chặn truy cập game vào khung giờ cụ thể. -->
 
 ## Tính năng và Mô tả
 
@@ -21,8 +21,8 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
 | ------------------------------ | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Bật Kiểm soát truy cập web** | ![Hình ảnh 1](../img/f1.png)   | Kiểm soát toàn bộ truy cập web của máy tính. <br> **Lưu ý:** Muốn chặn web đen, game online, mạng xã hội… cần bật kiểm soát truy cập web lên. |
 | **Tắt Kiểm soát truy cập web** | ![Hình ảnh 2](../img/f2.png)   | Dừng việc kiểm soát truy cập web. <br> **Lưu ý:** Khi dừng kiểm soát truy cập web sẽ không chặn được web đen, game online, mạng xã hội…       |
-| **Bật chặn game/ứng dụng**     | ![Hình ảnh 3](../img/f3.png)   | Chặn các game/ứng dụng cài trên máy tính.                                                                                                     |
-| **Tắt chặn game/ứng dụng**     | ![Hình ảnh 4](../img/f4.png)   | Dừng việc chặn game/ứng dụng cài trên máy tính.                                                                                               |
+| **Bật lọc game**               | ![Hình ảnh 3](../img/f3.png)   | Chặn các game/ứng dụng cài trên máy tính.                                                                                                     |
+| **Tắt lọc game**               | ![Hình ảnh 4](../img/f4.png)   | Dừng việc chặn game/ứng dụng cài trên máy tính.                                                                                               |
 | **Bật chụp ảnh màn hình**      | ![Hình ảnh 5](../img/f5.png)   | Tự động chụp ảnh màn hình định kỳ theo cấu hình ở chức năng “Chụp ảnh màn hình”.                                                              |
 | **Tắt chụp ảnh màn hình**      | ![Hình ảnh 6](../img/f6.png)   | Tắt việc tự động chụp ảnh màn hình máy tính.                                                                                                  |
 | **Bật lập lịch khóa máy tính** | ![Hình ảnh 7](../img/f7.png)   | Tự động khóa máy tính theo lịch được cấu hình ở chức năng “Lập lịch khóa máy tính”.                                                           |
@@ -35,7 +35,9 @@ Sau khi liên kết thành công điện thoại với máy tính, ở tab “Đ
 ## 2.1.2. Khoá/mở khoá máy tính
 
 -   Có thể khoá hoặc mở khoá máy tính ở thời điểm bất kỳ
--   Vào tab Điều khiển > Vùng tiện ích > Dòng Khoá/mở máy tính
+-   Vào tab Điều khiển > Vùng Khoá/mở máy tính
+-   Nhấn "Khoá máy" => máy tính sẽ khoá trong 1 tiếng
+-   Nhấn "Mở máy" => máy tính sẽ được mở khoá
 
   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
