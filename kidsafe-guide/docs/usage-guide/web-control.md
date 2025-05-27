@@ -59,56 +59,24 @@ Tính năng này cho phép:
 
   </div>
 
-## 2.2.2. Chặn/mở truy cập website theo nhóm
+## 2.2.2. Chặn/mở truy cập website đơn lẻ có sẵn
 
--   Ở tab Lọc web > Lọc nhóm: Mỗi nhóm website hiển thị thành 1 dòng
+-   Ở tab "Lọc web", chọn dòng "Lọc chi tiết"
+-   Ở màn hình "Lọc chi tiết", tìm kiếm website, gạt sang đỏ để chặn, sang xanh để mở
 
   <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
-      <div class="guide-title guide-title--15">Ở chế độ kiểm soát vừa phải: tích đỏ là chặn, không tích là mở</div>
-      <div class="guide-content guide-content--85">  
-        <img src="../../img/wm-normal.png" alt="Chế độ kiểm soát mạng vừa phải">
+      <div class="guide-title guide-title--5">Vào tab "Lọc web" > dòng "Lọc chi tiêt"</div>
+      <div class="guide-content guide-content--95">
+        <img src="../../img/ip44.png" alt="Nhật ký truy cập web">
       </div>
     </div>
-    <div class="guide-card">
-      <div class="guide-title guide-title--15">Ở chế đố kiểm soát nghiêm ngặt: tích xanh là mở, không tích là chặn</div>
-      <div class="guide-content guide-content--85">  
-        <img src="../../img/wm-strict.png" alt="Chế độ kiểm soát mạng nghiêm ngặt">
-      </div>
-    </div>
+    <div></div>
   </div>
-
--   Ở tab Lọc web > Chi tiết: xem cụ thể từng trang web
-
- <div class="guide-container guide-grid grid--2-cols">
-    <div class="guide-card">
-      <div class="guide-title guide-title--10">Khi nhóm Game online bị chặn (tích đỏ) thì tất cả game online trong nhóm bị chặn</div>
-      <div class="guide-sub-title guide-sub-title--15">
-        <img src="../../img/wm-block-group.png" alt="">
-      </div>
-      <div class="guide-content guide-content--75">  
-        <img src="../../img/ip9.png" alt="">
-      </div>
-    </div>
-    <div class="guide-card">
-      <div class="guide-title guide-title--10">Khi nhóm Game online được mở (không tích) thì tất cả game online trong nhóm được mở</div>
-      <div class="guide-sub-title guide-sub-title--15">
-        <img src="../../img/wm-allow-group.png" alt="">
-      </div>
-      <div class="guide-content guide-content--75">  
-        <img src="../../img/ip10.png" alt="">
-      </div>
-    </div>
-  </div>
-
-## 2.2.3. Chặn/mở truy cập website đơn lẻ có sẵn
-
--   Vào tab “Lọc web” > tab “Chi tiết” > nhấn vào ô Tìm kiếm > nhập tên website để tìm
--   Gạt công tắc sang màu xanh để mở chặn, gạt sang màu đỏ đề chặn
 
   <div class="guide-container guide-grid grid--3-cols">
     <div class="guide-card">
-      <div class="guide-title guide-title--15 guide-title--bullet">Tab “Lọc web” > tab “Chi tiết” > ô Tìm kiếm > nhập tên website để tìm</div>
+      <div class="guide-title guide-title--15 guide-title--bullet">ô Tìm kiếm > nhập tên website để tìm</div>
       <div class="guide-content guide-content--85">  
         <img src="../../img/ip11.png" alt="Tab lọc chi tiết">
       </div>
@@ -127,27 +95,39 @@ Tính năng này cho phép:
     </div>    
   </div>
 
-## 2.2.4. Chặn/mở truy cập website bất kỳ
+## 2.2.3. Chặn/mở truy cập website bất kỳ
+
+-   Ở tab "Lọc web", chọn dòng "Lọc nhanh"
+
+  <div class="guide-container guide-grid grid--2-cols">
+    <div class="guide-card">
+      <div class="guide-title guide-title--5">Vào tab "Lọc web" > dòng "Lọc nhanh"</div>
+      <div class="guide-content guide-content--95">
+        <img src="../../img/ip45.png" alt="Lọc nhanh">
+      </div>
+    </div>
+    <div></div>
+  </div>
 
  <div class="guide-container guide-grid grid--2-cols">
     <div class="guide-card">
-      <div class="guide-title guide-title--10">Tab “Lọc web” > tab “Lọc nhanh” > tab "Chặn"</div>
+      <div class="guide-title guide-title--10">Tab "Chặn"</div>
       <div class="guide-sub-title guide-sub-title--15">
       Chọn sẵn các trang như youtube, facebook, zalo, tiktok hoặc nhập trang bất kỳ để chặn. <br>
           => Các trang ở đây sẽ luôn luôn bị chặn.
       </div>
       <div class="guide-content guide-content--75">  
-        <img src="../../img/ip15.png" alt="Tab lọc chi tiết">
+        <img src="../../img/ip15.png" alt="Chặn nhanh youtube, facebook, zalo, tiktok">
       </div>
     </div>
     <div class="guide-card">
-      <div class="guide-title guide-title--10">Tab “Lọc web” > tab “Lọc nhanh” > tab "Mở"</div>
+      <div class="guide-title guide-title--10">Tab "Mở"</div>
       <div class="guide-sub-title guide-sub-title--15">
         Chọn sẵn các trang như youtube, facebook, zalo, tiktok hoặc nhập trang bất kỳ để mở. <br>
         => Các trang ở đây sẽ luôn luôn được mở.
       </div>
       <div class="guide-content guide-content--75">  
-        <img src="../../img/ip16.png" alt="Mở trang web bất kỳ">
+        <img src="../../img/ip16.png" alt="Mở nhanh youtube, facebook, zalo, tiktok">
       </div>
     </div>
   </div>
